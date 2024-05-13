@@ -1,0 +1,63 @@
+#Exercise 2:
+## Title: Tools Assignment KP 13 May 2024: https://github.com/KartyPant/Test-Python-Code/blob/0bd2523a4154ed6bd594b091a00c2adb70b04443/Tools%20Assignment%20KP%2013%20May%202024
+
+#Exercise 3:
+##  Introduction
+### My name is Kartikeya Pant. 
+### I am aspiring to be an IBM Data Science professional!
+
+#Exercise 4:
+### A list of Data Science Languages
+1. Python
+2. R
+3. Java
+4. Julia
+5. Scala
+6. C++
+
+#Exercise 5:
+### A list of Data Science Libraries
+1. Pandas
+2. Numpy
+3. Scipy
+4. TensorFlow
+5. Matplotlib
+6. Scikit-learn
+
+#Exercise 6:
+### A list of Data Science Tools
+1. Jupyter Notebooks
+2. R Studio
+3. GitHub
+4. Cognos
+5. Tableau
+6. Power BI
+7. Apache Airflow
+8. Apache Kafka
+9. IBM DB2, SQL Server
+
+#Exercise 7:
+### Arithmetic expression example
+* Enter the following **expression** <code>15*5</code> in the cell below and **execute** it by using the keys **shift+enter**
+
+#Exercise 8:
+x = 2
+y = 3
+Multiply = x*y
+Sum = x+y
+
+
+#Exercise 9: Code to convert minutes into hours
+minutes = 180
+hours = minutes/60
+
+
+#Exercise 10: List Objectives
+### Objectives of Data Science are:
+1. Uncover patterns
+2. Make predictions
+3. Derive actionable insights
+
+#Exercise 11:
+##  Author's name:
+### The name
